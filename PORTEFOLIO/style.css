@@ -1,9 +1,9 @@
 @font-face {
     font-family: Basteleur;
-    src: url(font/Basteleur-Bold.woff);format (".woff")
-    font-weight 100px;
+    src: url(font/Basteleur-Bold.woff) format (".woff")
+    font-weight 100
     font-style: normal;
 }
 h1{
-    font-family: basteleur;
+    font-family: Basteleur;
 }
