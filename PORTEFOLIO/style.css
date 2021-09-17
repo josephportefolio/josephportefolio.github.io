@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    gap: 2039px;
+    font-family: PlayfairDisplay-Variablefont_wght
+    @font-face {
+        font-family: ; Playfair Display
+        src: url(PlayfairDisplay-Variablefont_wght.ttf)
+    }
+ 
