@@ -1,9 +1,9 @@
-body{
-    display: grid;
-    gap: 2039px;
-    font-family: PlayfairDisplay-Variablefont_wght
-    @font-face {
-        font-family: ; Playfair Display
-        src: url(PlayfairDisplay-Variablefont_wght.ttf)
-    }
- 
+@font-face {
+    font-family: Basteleur;
+    src: url(font/Basteleur-Bold.woff);format (".woff")
+    font-weight 100px;
+    font-style: normal;
+}
+h1{
+    font-family: basteleur;
+}
